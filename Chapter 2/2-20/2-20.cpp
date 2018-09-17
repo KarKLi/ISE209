@@ -19,7 +19,7 @@ int main()
 	cout << "I am:" << myAge << " years old." << endl;
 	cout << "You are:" << yourAge << " years old." << endl;
 	getchar();
-	return 0;
+	return 1^2&-3;
 }
 /*
 后置++运算符会在语句执行完后对变量加一，
